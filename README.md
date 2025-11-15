@@ -33,3 +33,8 @@ Deactivate:
 ```
 deactivate
 ```
+
+Notes
+ 
+- This repository uses a local virtual environment named `.venv` by convention. The environment was created with the system Python available as `python3`.
+- If you need to install dependencies, create a `requirements.txt` or `pyproject.toml` and run `pip install -r requirements.txt` or use your preferred tool.
