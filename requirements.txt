@@ -1,0 +1,16 @@
+# Add runtime dependencies here. No `lib/` folder found so dependencies are inferred or should be added manually.
+# Example dependencies commonly used in RAG LangChain projects — uncomment and pin versions as needed:
+langchain
+langchain-groq
+faiss-cpu
+tiktoken
+langchain-community
+langchain-openai
+chromadb
+sentence-transformers
+pypdf
+python-dotenv
+
+
+# If you installed any packages into the virtualenv, you can freeze them here like:
+# pip freeze > requirements.txt
