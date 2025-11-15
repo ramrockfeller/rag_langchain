@@ -56,6 +56,11 @@ The project can be initialized and dependencies installed using the `uv` CLI if 
 ```bash
 uv init
 ```
+- Create virtual environment
+```bash
+uv venv 
+source .venv/bin/activate
+```
 
 - Install dependencies using `uv` (if supported by your `uv` version):
 
