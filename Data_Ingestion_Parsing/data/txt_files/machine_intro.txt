@@ -1,0 +1,1 @@
+Machine Learning is a subset of artificial intelligence that enables computer systems to learn and improve from data without being explicitly programmed. ML algorithms identify patterns and make predictions, powering applications like recommendation systems, image recognition, and natural language processing.
