@@ -1,1 +1,13 @@
 Machine Learning is a subset of artificial intelligence that enables computer systems to learn and improve from data without being explicitly programmed. ML algorithms identify patterns and make predictions, powering applications like recommendation systems, image recognition, and natural language processing.
+Key features of Machine Learning include:
+1. Data-driven learning
+2. Pattern recognition
+3. Predictive analytics
+4. Adaptability to new data
+5. Automation of decision-making processes
+6. Support for various data types (structured, unstructured)
+7. Integration with big data technologies
+8. Continuous improvement through feedback loops
+9. Wide range of algorithms (supervised, unsupervised, reinforcement learning)
+10. Applications across diverse industries such as healthcare, finance, and marketing.
+Some popular Machine Learning frameworks and libraries are TensorFlow, PyTorch, Scikit-learn, and Keras, which facilitate the development and deployment of ML models.
