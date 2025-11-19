@@ -10,6 +10,13 @@ chromadb
 sentence-transformers
 pypdf
 python-dotenv
+pymupdf
+unstructured
+pdfminer
+python-docx
+docx2txt
+unstructured[docx]
+
 
 
 # If you installed any packages into the virtualenv, you can freeze them here like:
